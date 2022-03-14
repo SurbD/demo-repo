@@ -1,5 +1,10 @@
 # Demo Readme
 This is a Null Repository
-## Welcome Guys
 
-Some Description
+## Lets introduce you to the Team
+
+Some Description 
+  Project Manager - Divine Mukoro
+  Marketing manager - DivArtX
+  Financial Advisor - God
+
